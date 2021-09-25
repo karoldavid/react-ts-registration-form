@@ -31,4 +31,4 @@ Source: [https://stackblitz.com/edit/react-ts-jgky5j](https://stackblitz.com/edi
 #### 4. BONUS TASK: Style the form according to this screenshot
 
 [screenshot URL](https://i.imgur.com/CGzuOmK.png)
-![form-preview](https://i.imgur.com/CGzuOmK.png)
+![form-preview](https://i.imgur.com/CGzuOmK.png)git 
