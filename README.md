@@ -2,7 +2,7 @@
 
 Here is a link to the live version: [https://karoldavid.github.io/react-ts-registration-form/](https://karoldavid.github.io/react-ts-registration-form/).
 
-![Image React TypeScript Registration Form](imgages/react-ts-registration-form-1.png)
+![Image React TypeScript Registration Form](images/react-ts-registration-form-1.png)
 
 ## Getting Started
 
