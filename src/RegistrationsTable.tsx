@@ -11,11 +11,11 @@ import TableCell from "@material-ui/core/TableCell";
 import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 
-import { Registration } from "../constants/types";
+import { Registration } from "./constants/types";
 import {
-  useGetRegistrationsQuery,
   useDeleteRegistrationMutation,
-} from "../queries/registrationQueries";
+  useGetRegistrationsQuery,
+} from "./queries/registrationQueries";
 
 type RegistrationsTableProps = {
   uuid: string;

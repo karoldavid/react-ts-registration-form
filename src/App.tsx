@@ -2,8 +2,8 @@ import React from "react";
 import Box from "@material-ui/core/Box";
 import Grid from "@material-ui/core/Grid";
 
-import RegistrationForm, { INITIAL_VALUES } from "./forms/RegistrationForm";
-import RegistrationsTable from "./Tables/RegistrationsTable";
+import RegistrationForm, { INITIAL_VALUES } from "./RegistrationForm";
+import RegistrationsTable from "./RegistrationsTable";
 
 const UUID = "5e8c6579e61fbd00164aebec";
 

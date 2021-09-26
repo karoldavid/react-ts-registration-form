@@ -12,8 +12,8 @@ import LinearProgress from "@material-ui/core/LinearProgress";
 import Snackbar from "@material-ui/core/Snackbar";
 import TextField from "@material-ui/core/TextField";
 
-import { Registration } from "../constants/types";
-import { useCreateRegistrationMutation } from "../queries/registrationQueries";
+import { Registration } from "./constants/types";
+import { useCreateRegistrationMutation } from "./queries/registrationQueries";
 
 const schema = yup
   .object()
