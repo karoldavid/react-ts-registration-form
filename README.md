@@ -1,34 +1,39 @@
-# Code Challenge - Form Component (React TypeScript)
+# React TypeScript Registration Form (Coding Challenge)
 
-Source: [https://stackblitz.com/edit/react-ts-jgky5j](https://stackblitz.com/edit/react-ts-jgky5j).
+Here is a link to the live version: [https://karoldavid.github.io/react-ts-registration-form/](https://karoldavid.github.io/react-ts-registration-form/).
 
-#### 1. Create a simple registration form with following fields:
+![Image React TypeScript Registration Form](imgages/react-ts-registration-form-1.png)
 
-- Username (required)
-- Password (required)
-- Confirm password (required)
-- Email (required)
-- Phone number
-- Newsletter subscription (checkbox)
-- Submit button
+## Getting Started
 
-#### 2. Send your form once submit button is clicked as an asynchronous POST request to URL:
+### Prerequisites
 
-[https://5e8c6579e61fbd00164aebec.mockapi.io/register](https://5e8c6579e61fbd00164aebec.mockapi.io/register) with the following structure:
+Make sure you have Node v14 or later and npm installed.
 
-    {
-      "username": "<username>",
-      "password": "<password>",
-      "email": "<email>",
-      "phone": "<phone>",
-      "newsletter": <newsletter>
-    }
+### Installing
 
-#### 3. Show the response in the DOM
+1. Clone or download the repository.
+2. `cd` into the project directory.
+3. Run `npm install` to install the npm packages locally.
+4. Run `npm start` to run the app. The app should open automatically in a web browser.
 
-- Use standard HTML form validation
+## Built With
 
-#### 4. BONUS TASK: Style the form according to this screenshot
+* [Create React App TypeScript](https://github.com/facebook/create-react-app)
+* [React Hook Form](https://react-hook-form.com)
+* [Material UI](https://mui.com/)
+* [React Query](https://react-query.tanstack.com)
+* [React Table](https://react-table.tanstack.com/)
+* [Mock API](https://mockapi.io/)
 
-[screenshot URL](https://i.imgur.com/CGzuOmK.png)
-![form-preview](https://i.imgur.com/CGzuOmK.png)git 
+## Author
+
+* **Karol Zyskowski**
+
+Questions? Send an email to: k.zysk@zoho.com
+
+## License
+
+This project is licensed under the MIT License - see the
+[LICENSE.md](LICENSE.md) file for details
+
