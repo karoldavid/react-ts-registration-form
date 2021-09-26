@@ -21,6 +21,7 @@ Make sure you have Node v14 or later and npm installed.
 
 * [Create React App TypeScript](https://github.com/facebook/create-react-app)
 * [React Hook Form](https://react-hook-form.com)
+* [Yup Schema Validation](https://github.com/jquense/yup)
 * [Material UI](https://mui.com/)
 * [React Query](https://react-query.tanstack.com)
 * [React Table](https://react-table.tanstack.com/)
